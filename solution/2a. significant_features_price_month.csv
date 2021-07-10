@@ -1,0 +1,13 @@
+dependent,independent_one,independent_two,p_value,significant
+price,sold_month,paint_color,0.438532,False
+price,sold_month,car_type,1e-05,True
+price,sold_month,engine_power,0.0,True
+price,sold_month,feature_1,0.747581,False
+price,sold_month,feature_2,0.889162,False
+price,sold_month,feature_3,0.077742,False
+price,sold_month,feature_4,0.274932,False
+price,sold_month,feature_5,0.982807,False
+price,sold_month,feature_6,0.352183,False
+price,sold_month,feature_7,6e-06,True
+price,sold_month,feature_8,0.052496,False
+price,sold_month,registration_date,0.0,True

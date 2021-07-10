@@ -1,0 +1,11 @@
+,maker_key,model_key,mileage,engine_power,registration_date,fuel,paint_color,car_type,feature_1,feature_2,feature_3,feature_4,feature_5,feature_6,feature_7,feature_8,price,sold_at,y_predict_orig,y_predict_future,loss_measure
+3852,BMW,X3,61969,135,3/1/2014,diesel,black,suv,False,False,False,False,False,False,False,True,25100,1/1/2018,23802.15843780437,25952.071696026425,-2149.9132582220554
+3051,BMW,520,41847,135,2/1/2014,diesel,black,sedan,True,True,False,False,True,True,True,True,24900,4/1/2018,24370.92247344484,25520.569899524668,-1149.6474260798277
+4511,BMW,X3,59934,140,3/1/2015,diesel,silver,suv,True,True,True,False,False,False,False,True,28700,7/1/2018,27509.18435466268,27954.823940077804,-445.6395854151233
+3424,BMW,420 Gran Coupé,54836,135,3/1/2014,diesel,black,sedan,True,True,False,True,True,False,True,True,29300,7/1/2018,24596.365912811314,24945.02768072895,-348.6617679176343
+3757,BMW,X3,92385,135,2/1/2014,diesel,silver,suv,False,True,False,False,False,False,True,True,20200,5/1/2018,20687.614279464975,20908.02799021766,-220.41371075268398
+4648,BMW,X4,53055,140,7/1/2015,diesel,black,suv,True,True,False,False,True,False,True,True,23800,8/1/2018,34135.022566506406,34355.27640855206,-220.2538420456549
+121,BMW,420,61620,120,1/1/2014,diesel,blue,coupe,False,True,False,True,True,True,True,True,26800,6/1/2018,23240.51843393276,23446.360342335334,-205.8419084025736
+2363,BMW,i3,46359,125,1/1/2014,electro,white,hatchback,True,True,False,False,False,False,True,True,21200,8/1/2018,24913.28780088815,25069.449626401652,-156.16182551350357
+4594,BMW,X3,167739,140,4/1/2015,diesel,blue,suv,True,True,False,False,False,False,True,True,20200,7/1/2018,19879.82956530018,19945.10877491729,-65.27920961711061
+1895,BMW,i3,26542,75,3/1/2014,electro,grey,hatchback,False,True,False,False,False,False,True,True,20900,2/1/2018,23439.1922799382,23477.67657269247,-38.48429275427043
